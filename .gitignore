@@ -1,0 +1,57 @@
+## Nucleo auto-generated files
+# T4
+*.t4nucleo.cs
+*.t4.cs
+*.t4.js
+*.t4.ts
+
+
+##################### Rider ###########################
+##.idea
+.vs
+.idea
+.idea/shelf
+.idea/httpRequests
+
+# System files
+*.DS_Store
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/watcherTasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/contentModel.xml
+.idea/**/riderModule.iml
+
+##################### end Rider ###########################
+
+# Build results
+**/packages/*
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+bld/
+[Bb]in/
+[Oo]bj/
+*.log
+*.pubxml.user
+*.DotSettings.user
+*.csproj.user
+
+/+
+node_modules
+Legacy Projects
